@@ -1,1 +1,1 @@
-# -kunge-cybersecurity-learning-personal-cli
+# kunge-cybersecurity-learning-personal-cli
